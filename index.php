@@ -13,8 +13,8 @@ $pdc->durata = "2 ore";
 
 $undl = new Movie();
 $undl->titolo = "Una notte da leoni";
-$pdc->genere = "Horror";
-$pdc->durata = "1 ora"
+$undl->genere = "Horror";
+$undl->durata = "1 ora"
 
 ?>
 
@@ -24,6 +24,7 @@ $pdc->durata = "1 ora"
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Programmazione ad oggetti</h1>
